@@ -1,0 +1,1 @@
+Proiect de licență care explorează aplicarea inteligenței artificiale în jocuri retro: dezvoltarea și antrenarea unui agent capabil să joace Super Mario Bros. Proiectul include pipeline-ul complet — mediul de simulare, preprocesarea imaginilor, arhitectura rețelei neurale și procedura de antrenare — și oferă evaluări comparative ale performanței agentului.
